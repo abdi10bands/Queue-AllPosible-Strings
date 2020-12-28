@@ -1,10 +1,7 @@
-//CS311 Yoshii
-//INSTRUCTION:
-//Look for ** to complete this program 
-//The string output should match my hw1queueDemo.out 
+
 
 //=========================================================
-//HW#: HW1P2 queue application (generate all strings)
+// queue application (generate all strings)
 //Your name: Abdiel Verdin
 //Complier:  g++
 //File type: client program client2.cpp
