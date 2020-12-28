@@ -1,10 +1,7 @@
-//INSTRUCTION:
-//Look for ** using control-S
-//Then, fill in the function body
-//When done, compile queue.cpp to make sure it has no syntax errors
+
 
 //=========================================================
-//HW#: HW1P2 queue
+// queue
 //Your name: Abdiel Verdin
 //Complier:  g++
 //File type: queue implementation queue.cpp
