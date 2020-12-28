@@ -1,10 +1,7 @@
-//CS311 Yoshii
-//INSTRUCTION:
-// QUEUE class - header file template based on Notes-2A
-// Look for ** and complete them 
+
 
 // =====================================================
-// HW#: HW1P2 queue
+// queue
 // Your name: Abdiel
 // Compiler:  g++ compiler
 // File type: queue header file queue.h
